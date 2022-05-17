@@ -8,19 +8,8 @@ The Ethnicity for Business Contact 1 & Business Contact 2 is identified using th
 
 ethnicolr uses the function pred_nc_reg_name to generate ethnicity as shown below.
 
-A - ASIAN								
-B - BLACK or AFRICAN AMERICAN								
-I - AMERICAN INDIAN or ALASKA NATIVE							
-M - TWO or MORE RACES								
-O - OTHER								
-P - NATIVE HAWAIIAN or PACIFIC ISLANDER							
-U - UNDESIGNATED								
-W - WHITE								
-								
-								
-Ethnic codes:								
-ethnicity          description								
--------------------------------								
-HL  - HISPANIC or LATINO								
-NL  - NOT HISPANIC or NOT LATINO							
-UN  - UNDESIGNATED							
+1. Black or African American
+2. Hispanic or Latino
+3. Native American or Indigenous
+4. Asian-Pacific Americans
+5. Asian-Indian Americans
